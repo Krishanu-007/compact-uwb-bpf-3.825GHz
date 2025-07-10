@@ -1,4 +1,5 @@
 # 📡 Design & Analysis of a Compact Ultra-Wideband Microstrip Bandpass Filter (3.825 GHz)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 This repository documents the end-to-end design, simulation, and optimization process for a **compact Ultra-Wideband (UWB) microstrip bandpass filter** centered at **3.825 GHz**, conducted during a research training program at **ISRO – Space Applications Centre (SAC)**.
 
