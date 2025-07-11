@@ -44,7 +44,7 @@ The corrected layout was then simulated for S-parameters.
 
 The physical implementation used:
 
-- Microstrip layout with **short-circuited λg/4 and λg/2 stubs**
+- Microstrip layout with **series λg/4 connecting lines wtih λg/4 and λg/2 stubs in series**, this is actually a dual representation for elliptic filter response design
 - Manual routing to maintain electrical lengths while folding geometry
 - Gold conductor, 25 mil Alumina substrate (εr = 9.9)
 
